@@ -1,0 +1,442 @@
+
+ 
+img {
+    width: 400px;
+    height: 180px;
+    display: block;
+    margin-left: 1000px; 
+    margin-right: 20px; 
+    margin-top: 100px; /* Centers the image horizontally */
+}
+
+.custom-navbar {
+    width: 100%; /* Ensure navbar takes full width */
+     padding: 1rem 2rem; /* Adjust padding for height */
+ background-color: white !important; 
+ } 
+
+ .custom-nav .nav-item {
+    margin-right: 20px; /* Increase spacing between nav items */
+ } 
+ .nav-link {
+    font-size: 6rem; /* Increase size of the nav links */
+     font-weight: 500; 
+     margin-left: 300px;/*Optionally, make them slightly bold */
+   color: black;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}  
+
+ .navbar-brand {
+    height: 150px; 
+    width: 300;
+    margin-right: 80px; 
+    margin-top: 4px;
+} 
+ .btn-lg {
+    font-size: 5rem;
+    margin-right: 1000px;
+    width: 800px; /* Increase button size */
+    height: 150px;
+   
+} 
+
+.section1{
+    margin-top: 200px;
+} 
+
+
+ .custom-navbar .nav-link.active,
+.custom-navbar .nav-link:hover {
+    color: #e35509; /* Change color of active and hover states */
+ }
+
+.btn-outline-success {
+    color:white; /* Change text color to black */
+     border-color: black; /* Change border color to black */
+    background-color: black; */
+   
+} 
+
+ .btn-outline-success:hover {
+    background-color: black; /* Change background color to black on hover */
+     color: white; /* Change text color to white on hover */
+  }  
+
+
+  .image-container { 
+
+    /* Add some margin for spacing */
+      margin-left: 1000px;
+     position:relative; 
+     
+ }
+ .img-fluid {
+    width: 1500px;
+    height: 1500px;
+    margin-left: 250px; 
+    margin-top: 0%;
+
+
+ }
+.section2 {
+    
+    margin-top: 200px;
+    position:absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+
+   
+}
+
+.section2 .heading {
+    font-weight: bold;
+    font-size: 15rem; 
+    margin-left:10px;
+   
+ }
+
+.section2 .para2 {
+    font-size: 4rem; /* Adjust this value as needed */
+     line-height: 1.6; /* Optional: adjust the line height */
+     font-weight: 500; /* Optional: adjust the font weight */
+     color: #333;
+     margin-top: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+} 
+
+ .section2 .para3 {
+    font-size: 4rem; /* Adjust this value as needed */
+     line-height: 1.6; /* Optional: adjust the line height */
+     font-weight: 500;
+     color: #333; 
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 100px; 
+
+ } 
+
+
+.custom-button {
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 20px;
+    font-size: 5rem;
+    border: 2px solid white;
+    color:black;
+    background-color: transparent;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    width: 800px;
+    height:150px;
+    margin-top: 20px;
+   
+} 
+
+ .custom-button img {
+    width: 200px;
+    height:200px;
+    margin-right: 10px;
+    margin-left: 0px;
+} 
+
+
+
+ .custom-button:hover {
+    background-color:white;
+    color: black;
+}  
+
+
+.button-container {
+    display: flex;
+
+    justify-content: center; /* Center the buttons horizontally */
+    align-items: center; /* Center the buttons vertically */
+     margin-top: 20px; /* Adjust the top margin as needed */
+ }  
+ .get-started-btn {
+    margin-right: 100px; /* Adjust margin to reduce space between the buttons */
+ }  
+
+ .heading-container {
+     
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px; 
+        margin-top: 2000px;
+        margin-left: 4000px;
+        width: 1700px;
+        height:1800px;
+    
+}
+
+.frame3
+{
+    width:2000px;
+    height:3000px;
+    margin-left: 4000px;
+    margin-top: -1200px;
+}
+
+.frame{
+    width:2500px;
+    height:2000px;
+    margin-left: 1000px;
+    margin-top: -1700px;
+}
+
+
+ .section3{
+    margin-left: 3600px;
+    margin-top:-50px
+}
+
+ .subhead
+ {
+    font-size: 100px;
+    color: #e35509;
+ }
+
+ .headline{
+    font-size: 220px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+ }
+
+ .firstpoint
+ {  margin-top: 100px;
+    font-size: 75px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+ }
+
+  .bullet1{
+    margin-top: -1100px;
+    
+    margin-left: 3470px;
+    width: 200px;
+    height: 200px;
+   
+ } 
+
+ .para4{
+    margin-top: 50px;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+    color:#333333ce;
+
+ }
+
+ .para5{margin-top: 18px;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+color:#333333ce;}
+ 
+.secondpoint{
+    margin-top: 100px;
+    font-size: 75px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+}
+
+
+.bullet{
+    margin-top: 180px;
+    margin-left: 3470px;
+    width: 190px;
+    height: 190px;
+}
+
+.cube
+{ margin-top: 200px;
+    margin-left: 3470px;
+    width: 180px;
+    height: 180px;
+
+}
+
+.back
+{
+    margin-top: -1800px;
+    width: 2000px;
+    height:2000px;
+
+}
+
+.phone
+{
+    margin-top: -1800px;
+    width: 2500px;
+    height:2500px;
+}
+
+.subhead1
+ {
+    font-size: 100px;
+    color: #e35509;
+    margin-left: 1000px;
+    margin-top: 600px;
+ }
+
+ .headline1{
+    font-size: 200px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 1000px;
+ }
+
+ .section4{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 800px;
+ }
+
+ .sentences
+ {
+    margin-left: 900px;
+    font-size: 70px;
+ }
+
+ .bell{
+    margin-top: -550px;
+    margin-left: 1600px;
+    width: 200px;
+    height:200px;
+ }
+
+ .rightimage{
+    margin-top:-1000px;
+    margin-left: 4000px;
+    width: 2300px;
+    height:2300px;
+ }
+
+ .imageleft{
+    margin-top: -600px;
+    height:2000px ;
+    width: 2000px;
+    margin-left: 1500px;
+ }
+ .firstpoint1{
+    margin-top:500px;
+    margin-left:400px ;
+    font-size: 100px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .para7{
+    margin-top: 18px;
+    font-size: 55px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 400px;
+color:#333333ce
+
+ }
+
+ .headline2
+ {
+   font-size: 200px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-left: 2300px;
+   margin-top: 100px;
+ }
+
+
+ .headline3
+ {
+   font-size: 200px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-left: 2300px;
+   margin-top: 5px;
+
+ }
+ 
+ .subhead2{
+   font-size: 100px;
+    color: black;
+    margin-left: 2700px;
+    margin-top: 400px;
+
+ }
+
+ .firstpoint2{
+   margin-top:70px;
+    margin-left:4000px ;
+    font-size: 100px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ }
+
+
+ .para8{
+   margin-top: 18px;
+    font-size: 55px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 4000px;
+    color:#333333ce
+    
+ }
+
+ .imageright1{
+   margin-left: 4000px;
+   width:1000px;
+ }
+
+ .line1
+ {
+   margin-left: 4000px;
+   margin-top: 50PX;
+   font-size: 60PX;
+ }
+ .imageleft4{
+   margin-left: 1000px;
+   margin-top:-1500px;
+   width: 2300px;
+   height: 2300px;
+ }
+
+ .imageleft5{
+   margin-left: 1000px;
+   margin-top:-2200px;
+   width: 2300px;
+   height: 2300px;
+ }
+
+ .Star1
+ {
+   margin-left: 800px;
+   margin-top:-13500px;
+
+ }
+
+ .Star2
+ {
+   margin-left: 1000px;
+   margin-top:5000px;
+
+ }
+
+ .Star3
+ {
+   margin-left: 1400px;
+   margin-top:-3700px;
+
+ }
+.Star4
+{
+   margin-left: 3000px;
+   margin-top:6000px;
+}
+
+.Star5{
+   
+   margin-left: 3000px;
+   margin-top:6000px;
+}
+.Star6{
+   
+   margin-left: 500px;
+   margin-top:-1000px;
+}
